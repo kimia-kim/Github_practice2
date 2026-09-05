@@ -2,3 +2,4 @@ GitHub Pull Request Demo
 Version 1.0
 Project review notes
 This section contains information about the project.
+This project is a team-based project for practicing GitHub collaboration and code review.
